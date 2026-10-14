@@ -1,0 +1,21 @@
+{
+  "component": "desugar_jdk_libs",
+  "version": "2.1.4",
+  "filename": "desugar_jdk_libs-2.1.4-source-bundle-20261014.zip",
+  "bytes": 26625347,
+  "sha256": "2f02902f0740d59705baf7955a8e4a8b39ad58a67c3e4f35f0d8683260ede310",
+  "upstream_sha256": "950023d9a1f44c29f549d590d27ac3df51a7742167d1b511a364b063f8749a6c",
+  "source_commit": "50d9c1fb3e85fa4c00161525a45484f712c1f003",
+  "files": [
+    "ADDITIONAL_LICENSE_INFO",
+    "LICENSE",
+    "README.txt",
+    "SHA256SUMS.txt",
+    "SOURCE_DEPENDENCIES.txt",
+    "SOURCE_VERSION.txt",
+    "build-reference/R8-LICENSE.txt",
+    "build-reference/r8-archive-desugar.py",
+    "desugar_jdk_libs-2.1.4-upstream-source.zip",
+    "verification/desugar-verification.json"
+  ]
+}
